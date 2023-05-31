@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
+
     }
     private void postProgress_korm(int progress_korm) {
         String strProgress = String.valueOf(progress_korm) + " %";
